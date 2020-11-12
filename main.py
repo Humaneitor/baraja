@@ -8,3 +8,5 @@ miBaraja = barajaC.Baraja(palos, numeros)
 print(miBaraja.mazacote)
 miBaraja.barajar()
 print(miBaraja.mazacote)
+
+print(miBaraja.repartir(3, 5))
